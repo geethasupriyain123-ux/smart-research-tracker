@@ -61,10 +61,6 @@ A full-stack, AI-powered application that helps researchers log, summarize, and 
 ![Dashboard View](/screenshots/dashboard.png)
 *The main dashboard showing research history and visualizations.*
 
-## 🤝 Contributing
-
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
