@@ -56,11 +56,6 @@ A full-stack, AI-powered application that helps researchers log, summarize, and 
     npm run dev
     ```
 
-## 📸 Screenshots
-
-![Dashboard View](/screenshots/dashboard.png)
-*The main dashboard showing research history and visualizations.*
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
