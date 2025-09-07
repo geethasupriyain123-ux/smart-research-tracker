@@ -42,12 +42,6 @@ A full-stack, AI-powered application that helps researchers log, summarize, and 
     cd ../frontend
     npm install
     ```
-4.  Set up environment variables:
-    ```bash
-    # Backend .env file
-    DATABASE_URL="your_database_url"
-    OPENAI_API_KEY="your_openai_api_key"
-    ```
 5.  Start the development servers:
     ```bash
     # Run backend (from /backend)
